@@ -1,6 +1,6 @@
 # Overlap Robot
 
-## This is an automated robot than can run 24/7 in metatrader program
+## This is an automated robot than can run 24/7 in metatrader
 # Main role:
 ## Able to run in real-time live and to backtest results too!!
 
